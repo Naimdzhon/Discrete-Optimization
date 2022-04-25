@@ -1,2 +1,2 @@
-# Discreate-Optimization
-Problems from Discreate Optimization course
+# Discrete-Optimization
+Problems from Discrete Optimization course
